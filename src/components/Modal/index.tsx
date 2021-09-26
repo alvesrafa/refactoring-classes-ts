@@ -1,4 +1,4 @@
-import { Component, ReactNode, useEffect, useState } from 'react';
+import { ReactNode } from 'react';
 import ReactModal from 'react-modal';
 type ModalProps = {
   isOpen: boolean;
